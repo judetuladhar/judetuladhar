@@ -5,6 +5,7 @@ I'm Jude, an Honours Mathematics student at the University of Waterloo, speciali
 Check out my portfolio and some of my featured projects [here](https://portfolio.jude-tuladhar.workers.dev/)
 
 Want to chat? You can reach out to me via...
+
 Email: <jude.tuladhar@gmail.com>
 Linkedin: [judetuladhar](https://www.linkedin.com/in/judetuladhar/)
 
